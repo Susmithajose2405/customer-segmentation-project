@@ -1,6 +1,6 @@
 # Customer Segmentation Project
 
-Intern ID: YOUR_INTERN_ID
+Intern ID: CITS1254
 
 ## Objective
 
