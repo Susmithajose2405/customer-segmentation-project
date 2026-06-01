@@ -1,15 +1,33 @@
 # Customer Segmentation Project
 
-Intern ID: DS2026XXX
+Intern ID: YOUR_INTERN_ID
 
-## Project Description
-This project segments customers into different groups using K-Means Clustering.
+## Objective
+
+The objective of this project is to segment customers into different groups using K-Means Clustering based on their Annual Income and Spending Score.
 
 ## Technologies Used
-- Python
-- Pandas
-- Scikit-learn
-- Matplotlib
+
+* Python
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+## Dataset
+
+Mall Customers Dataset
+
+## Project Workflow
+
+1. Load the dataset
+2. Select Annual Income and Spending Score
+3. Apply K-Means Clustering
+4. Visualize customer groups using a scatter plot
 
 ## Output
-Customers are divided into different clusters based on spending behavior.
+
+Customers are grouped into 5 clusters based on their spending behavior and income.
+
+## Conclusion
+
+Customer segmentation helps businesses identify different customer groups and create targeted marketing strategies.
